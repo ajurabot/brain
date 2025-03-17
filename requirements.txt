@@ -1,5 +1,0 @@
-openai
-telebot
-flask
-python-dotenv
-requests
