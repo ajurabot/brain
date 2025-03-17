@@ -1,3 +1,5 @@
-python-telegram-bot==20.0
+flask
+telebot
 openai
 python-dotenv
+python-telegram-bot==20.0
