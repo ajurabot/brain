@@ -1,4 +1,4 @@
-flask
-telebot
+Flask
+pyTelegramBotAPI
 openai
 python-dotenv
