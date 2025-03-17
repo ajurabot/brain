@@ -1,4 +1,4 @@
-python-telegram-bot==13.15
 Flask==2.3.2
-openai==0.27.0
+pyTelegramBotAPI==4.15.3  # Correct library
+openai==0.27.8
 gunicorn==20.1.0
